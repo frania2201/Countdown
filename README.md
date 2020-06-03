@@ -1,10 +1,7 @@
-click here [CLICK HERE](https://frania2201.github.io/Countdown/)
-
-
-# Party Time
+ # Party Time // [CLICK HERE](https://frania2201.github.io/Countdown/)
 
 Thanks to this application, you can countdown time to some event.
-## Screenshots
+
 ![Example screenshot](./screenshot.png)
 
 ## Technologies
